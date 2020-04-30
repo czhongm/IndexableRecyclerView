@@ -1,10 +1,10 @@
 package me.yokeyword.sample.city;
 
 import android.os.Bundle;
-import android.support.annotation.Nullable;
-import android.support.v7.app.AppCompatActivity;
-import android.support.v7.widget.GridLayoutManager;
-import android.support.v7.widget.SearchView;
+import androidx.annotation.Nullable;
+import androidx.appcompat.app.AppCompatActivity;
+import androidx.recyclerview.widget.GridLayoutManager;
+import androidx.appcompat.widget.SearchView;
 import android.view.View;
 import android.widget.FrameLayout;
 import android.widget.Toast;
